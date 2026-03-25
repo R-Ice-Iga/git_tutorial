@@ -1,0 +1,30 @@
+[{
+    "id": 484338,
+    "owner": "ryoji_igarashi",
+    "fields": {
+        "access_token": "V_EBhl2ybT-O4ebfBzutX6xwAPrcStviAr5flGWcaxfkQ5p2zKGiJsnaCXonDjnJxUWhJ7NmQM2IMEemVUV2uQ",
+        "refresh_token": "Gms1WWw8zB3W4knBDxzFNUshnQBQVRpadC9xCnJFdkwZtSVCdH_Y74aSQ9ciOYsbvoB7D3QaeabG1poCjptiUQ"
+    },
+    "user_permissions": {
+        "ryoji_igarashi": {
+            "readable": true,
+            "writable": true,
+            "executable": true
+        }
+    },
+    "group_permissions": {
+        "クラウドアプリケーション_ボイス部_ECL2": {
+            "readable": true,
+            "writable": false,
+            "executable": false,
+            "priority": 1
+        }
+    },
+    "created": "2026-02-17T20:51:17.985278+09:00",
+    "updated": "2026-03-10T20:05:29.236638+09:00",
+    "display_name": "Aozora",
+    "description": "",
+    "parent_object": "/home/ryoji_igarashi/Lock_RBA/Data_RBA/token_table",
+    "objpath": "Aozora",
+    "typepath": "/home/ryoji_igarashi/Lock_RBA/Types_RBA/token_object"
+}]
