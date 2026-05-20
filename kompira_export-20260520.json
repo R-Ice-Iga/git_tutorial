@@ -1,0 +1,32 @@
+[{
+    "id": 567537,
+    "owner": "ryoji_igarashi",
+    "fields": {
+        "source": "['hostname'] ->\r\nprint($RESULT)",
+        "multiplicity": null,
+        "defaultCheckpointMode": false,
+        "defaultMonitoringMode": "NOTHING"
+    },
+    "user_permissions": {
+        "ryoji_igarashi": {
+            "readable": true,
+            "writable": true,
+            "executable": true
+        }
+    },
+    "group_permissions": {
+        "クラウドアプリケーション_ボイス部_ECL2": {
+            "readable": true,
+            "writable": false,
+            "executable": false,
+            "priority": 1
+        }
+    },
+    "created": "2026-04-30T13:32:36.634454+09:00",
+    "updated": "2026-04-30T13:32:36.699823+09:00",
+    "display_name": "test",
+    "description": "",
+    "parent_object": "/home/ryoji_igarashi",
+    "objpath": "test",
+    "typepath": "/system/types/Jobflow"
+}]
